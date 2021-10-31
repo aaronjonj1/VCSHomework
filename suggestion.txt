@@ -1,0 +1,3 @@
+To create a fork navigate to the top right of the code section of github and press fork repository.
+After doing so you will create your fork where you can work on the repository seperately from its'
+original location and push and pull changes which can be reviewed before being implemented.
