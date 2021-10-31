@@ -3,6 +3,7 @@ Group Member Two: Thomas Beam
 
 git clone https://github.com/aaronjonj1/VCSHomework.git
 
+Question 9:
 git add
 
 git status
@@ -12,3 +13,9 @@ git commit -m "For question 9"
 git status
 
 git push origin master
+
+
+
+
+
+git clone https://github.com/aaronjonj1/VCSHomework.git
