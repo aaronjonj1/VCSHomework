@@ -1,2 +1,4 @@
 Group Member One: Aaron Jones
 Group Member Two: Thomas Beam
+
+git clone https://github.com/aaronjonj1/VCSHomework.git
